@@ -1,2 +1,2 @@
-# Machine-Vision-and-Computer-Vision
+# Computer Vision Basic Knowledge
 Basic for CV; Canny Edge Detection, Harris Corner Detection, SIFT, GHT, RANSAC, Clustering ...
