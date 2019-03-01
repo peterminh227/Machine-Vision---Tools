@@ -21,10 +21,10 @@ Language: Matlab
 
 
 ## Authors
-Code skeletion from ACIN - Vision Team 
 
 
-* **Minh Nhat Vu** 
+
+ **Minh Nhat Vu** adapts the code skeletion from ACIN - Vision Team
 
 ## License
 
